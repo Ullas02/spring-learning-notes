@@ -22,6 +22,7 @@ spring-core-bean-lifecycle-demo
 
 ## 📂 Recommended Project Structure
 
+```text
 src
 └── main
     └── java
@@ -35,8 +36,10 @@ src
             │     └── DatabaseManager.java
             └── service
                   └── VehicleService.java
+```
 
 ---
+
 
 ## 🎯 Learning Outcomes
 
