@@ -24,6 +24,7 @@ spring-core-dependency-injection-demo
 
 ## 📂 Recommended Project Structure
 
+```
 src
 └── main
     └── java
@@ -42,6 +43,7 @@ src
             └── service
                   ├── VehicleService.java
                   └── PaymentService.java
+```
 
 ---
 
