@@ -23,6 +23,7 @@ spring-core-java-configuration-demo
 
 ## 📂 Recommended Project Structure
 
+```
 spring-core-java-configuration-demo/
 │
 ├── src/main/java/
@@ -45,6 +46,7 @@ spring-core-java-configuration-demo/
 │           └── NotificationClient.java
 │
 └── pom.xml
+```
 
 ---
 
