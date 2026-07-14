@@ -22,6 +22,7 @@ spring-core-bean-lifecycle-demo
 
 ## 📂 Recommended Project Structure
 
+```
 spring-core-bean-lifecycle-demo/
 │
 ├── src/
@@ -40,6 +41,7 @@ spring-core-bean-lifecycle-demo/
 │       └── resources/
 │
 └── pom.xml
+```
 
 ---
 
