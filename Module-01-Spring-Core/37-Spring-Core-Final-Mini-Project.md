@@ -16,14 +16,17 @@ spring-core-employee-management
 
 ## 📂 Repository Location
 
+```
 spring-learning-projects/
 └── spring-core/
     └── spring-core-employee-management/
+```
 
 ---
 
 ## 🏗️ Package Structure
 
+```
 com.example.employee
 │
 ├── App.java
@@ -38,6 +41,7 @@ com.example.employee
 │
 └── model/
     └── Employee.java
+```
 
 ---
 
