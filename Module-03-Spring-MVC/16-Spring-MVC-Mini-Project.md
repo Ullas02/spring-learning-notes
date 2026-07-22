@@ -32,9 +32,11 @@ No database is used in this module.
 
 ## 📂 Project Structure
 
+```
 controller/
 model/
 templates/
+```
 
 ---
 
