@@ -118,11 +118,13 @@ The API should follow consistent rules.
 
 For example:
 
+```
 GET    /products
 POST   /products
 GET    /products/5
 PUT    /products/5
 DELETE /products/5
+```
 
 Developers can understand new APIs more quickly because the patterns are predictable.
 
