@@ -263,7 +263,7 @@ Clients should not know or care how data is stored.
 
 Bad
 
-/users
+/user
 
 /product
 
